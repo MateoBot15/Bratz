@@ -5,7 +5,7 @@ throw false
 }
 let pesan = args.join` `
 let oi = `☘️@𝐦𝐚𝐭𝐞𝐨_𝐯𝐞𝐧𝐭𝐚𝐬_: ${pesan}`
-let teks = `Creador Wa.me/51929741688 SI QUIERES BOT COMUNICAME
+let teks = `☘️Creador Wa.me/51929741688 SI QUIERES BOT COMUNICAME☘️
 
 ☘️𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭☘️ \n\n ${oi}\n ☘️ ➢ 𝙴𝚃𝙸𝚀𝚄𝙴𝚃𝙰𝚂: \n`
 for (let mem of participants) {
