@@ -2,7 +2,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let text = `╭─「➻❥ *owner* ➻❥」
-│➯ 𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ✍
+│➯ 𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 
 │➯Wa.me/51929741688 (CREADOR)
 │➯Wa.me/51929741688 (CREADOR) 
 │➯Wa.me/51929741688 (CREADOR)
@@ -11,7 +11,7 @@ let text = `╭─「➻❥ *owner* ➻❥」
 let buttonMessage= {
 'document': { url: `https://github.com/MateoBot15/prueba` },
 'mimetype': `application/${document}`,
-'fileName': `𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ✍`,
+'fileName': `𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 `,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
