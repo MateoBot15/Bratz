@@ -9,7 +9,7 @@ _muptime = await new Promise(resolve => { process.once('message', resolve)
 setTimeout(resolve, 60000) }) * 60000}
 
 let uptime = clockString(_uptime)
-let bio = `𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ☘️ ║ ✅ ${uptime} ⌛ ║ 𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭  #estado #menu #jadibot #grupos #owner 💻`
+let bio = `PACME BRATZ ᥫ᭡፝֟፝֟ ☘️ ║ ✅ ${uptime} ⌛ ║ PACME BRATZ ᥫ᭡፝֟፝֟  #estado #menu #jadibot #grupos #owner 💻`
 await this.updateProfileStatus(bio).catch(_ => _)
 setting.status = new Date() * 1
 }
